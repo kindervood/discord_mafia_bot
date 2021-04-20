@@ -1,2 +1,2 @@
-discordToken = 'ODMzNjgxMDE5OTM1OTE2MDYy.YH139A.DubAVDmq-8BSkSOxOHEsz7EFZA0'
+discordToken = ''
 ownerID = 563027984261316609
