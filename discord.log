@@ -1,0 +1,5 @@
+2021-04-20 17:35:50,832:WARNING:discord.client: PyNaCl is not installed, voice will NOT be supported
+2021-04-20 17:35:50,834:INFO:discord.client: logging in using static token
+2021-04-20 17:35:52,439:INFO:discord.gateway: Shard ID None has sent the IDENTIFY payload.
+2021-04-20 17:35:52,740:INFO:discord.gateway: Shard ID None has connected to Gateway: ["gateway-prd-main-g1f4",{"micros":64255,"calls":["discord-sessions-prd-2-133",{"micros":60119,"calls":["start_session",{"micros":42180,"calls":["api-prd-main-ggm7",{"micros":39466,"calls":["get_user",{"micros":4389},"add_authorized_ip",{"micros":1865},"get_guilds",{"micros":5770},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":9659,"calls":[]}]}]}] (Session ID: aa29cfb20a71607688ae6a4c7ada223c).
+2021-04-20 17:35:54,781:INFO:discord: MafiaBot launched, active on 1 guilds
